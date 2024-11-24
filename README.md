@@ -36,7 +36,7 @@ console.log(res);
 
 ```ts
 const { pidl } = require('ruhend-scraper.1.2')
-const text = "link instagram" //https://instagram.com/xxxxxxx
+const text = "link instagram" //https://Pinterest.com/xxxxxxx
 
 let res = await pidl(text);
 let data = await res.data;
@@ -55,7 +55,7 @@ console.log(res);
 
 ```ts
 const { ytsdl } = require('ruhend-scraper.1.2')
-const text = "link instagram" //https://instagram.com/xxxxxxx
+const text = "link instagram" //https://youtube.com/xxxxxxx
 
 let res = await ytsdl(text);
 let data = await res.data;
@@ -74,7 +74,7 @@ console.log(res);
 
 ```ts
 const { downloadMP4 } = require('ruhend-scraper.1.2')
-const text = "link instagram" //https://instagram.com/xxxxxxx
+const text = "link instagram" //https://youtube.com/xxxxxxx
 
 let res = await downloadMP4(text);
 let data = await res.data;
@@ -93,7 +93,7 @@ console.log(res);
 
 ```ts
 const { downloadMP3 } = require('ruhend-scraper.1.2')
-const text = "link instagram" //https://instagram.com/xxxxxxx
+const text = "link instagram" //https://youtube.com/xxxxxxx
 
 let res = await downloadMP3(text);
 let data = await res.data;
