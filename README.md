@@ -6,10 +6,14 @@ const text = "link Facebook" //https://Facebook.com/xxxxxxx
 
 let res = await fbdl(text);
 let data = await res.data;
-console.log(rer); 
-//or
-console.log(data); 
-   
+console.log(res);
+ for (let media of data) {
+      new Promise(resolve => setTimeout(resolve, 2000));
+      console.log(media.url)
+      /* media.url is or are link of videos or images that just one by one
+       * or do something with your project
+       */
+   }
 ```
 
 
