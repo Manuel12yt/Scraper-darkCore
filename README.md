@@ -11,4 +11,4 @@ Bienvenido a **Scrapers Avanzados**, un conjunto de herramientas diseñadas para
 ## 📦 Instalación  
 1. Clona el repositorio:  
    ```bash
-   git clone https://github.com/tuusuario/scrapers.git
+  npm install git+https://github.com/Manuel12yt/scrapers.git
