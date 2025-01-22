@@ -1,17 +1,14 @@
-# SCRAPERS DARK
+# 🌐 Scrapers Avanzados  
 
-¡Bienvenido a **SCRAPERS DARK**, una solución eficiente para raspar medios! Este proyecto te permite raspar enlaces de medios (videos o imágenes) desde varias plataformas sociales, como Pinterest, Instagram y Facebook, utilizando el paquete `ruhend-scraper-vip`.
+Bienvenido a **Scrapers Avanzados**, un conjunto de herramientas diseñadas para extraer datos de diversas fuentes en línea de manera rápida y eficiente. Perfecto para tareas de automatización, análisis de mercado y recolección de datos estructurados.  
 
-## Características
+## 🚀 Características  
+- **Rápido y eficiente:** Extracción de datos en tiempo récord.  
+- **Versátil:** Compatible con diversas fuentes en línea.  
+- **Fácil de usar:** Configuración e implementación sencillas.  
+- **Estructurado:** Resultados organizados y fáciles de procesar.  
 
-- Raspa imágenes y videos desde enlaces de Pinterest e Instagram.
-- Obtén URLs para un fácil acceso al contenido multimedia.
-- Controla el raspado de medios uno por uno con control de retraso.
-- API fácil de usar para descargar contenido multimedia.
-
-## Instalación
-
-Primero, asegúrate de tener instalado [Node.js](https://nodejs.org/). Luego, puedes instalar el paquete necesario utilizando npm:
-
-```bash
-npm install ruhend-scraper-vip
+## 📦 Instalación  
+1. Clona el repositorio:  
+   ```bash
+   git clone https://github.com/tuusuario/scrapers.git
