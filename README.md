@@ -14,5 +14,6 @@ Bienvenido a **Scrapers Avanzados**, un conjunto de herramientas diseñadas para
 ```bash
 npm install git+https://github.com/Manuel12yt/Scraper-darkCore.git
 
+## 📦 Instalación
 ### Usando package.json
 "Scraper-darkCore": "git+https://github.com/Manuel12yt/Scraper-darkCore.git",
