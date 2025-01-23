@@ -11,7 +11,7 @@ Bienvenido a **Scrapers Avanzados**, un conjunto de herramientas diseñadas para
 ## Explicación de los pasos:
 1. **Usando npm**: Te permite instalar directamente desde el repositorio en GitHub.
 1. **Usando yarn**: Te permite instalar directamente desde el repositorio en GitHub.
-2. **Usando `package.json`**: Se agrega el repositorio en la lista de dependencias de tu proyecto, lo que te permitirá instalarlo de manera más controlada usando `npm install`.
+2. **Usando `package.json`**: Se agrega el repositorio en la lista de dependencias de tu proyecto, lo que te permitirá instalarlo de manera más controlada usando `npm install` o `yarn install`.
 
 Con esta estructura, cualquier usuario que quiera usar tu proyecto podrá fácilmente instalar las dependencias desde GitHub usando estos métodos.
 
