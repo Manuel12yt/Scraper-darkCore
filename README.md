@@ -22,3 +22,5 @@ Si necesitas ayuda adicional o tienes alguna duda sobre la instalación o el uso
 1. Clona el repositorio e instálalo con npm:
 ```bash
 npm install git+https://github.com/Manuel12yt/Scraper-darkCore.git
+```bash
+yarn install git+https://github.com/Manuel12yt/Scraper-darkCore.git
